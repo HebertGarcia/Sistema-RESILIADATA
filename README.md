@@ -22,3 +22,5 @@ Funcionalidades:
 
 Autor<br>
 Hebert Garcia da Silva - Desenvolvedor principal<br>
+
+![image](https://github.com/HebertGarcia/Sistema-RESILIADATA/assets/113214587/f2cccb8a-525b-401c-9902-7bd4a6f11b7b)
